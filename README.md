@@ -1,16 +1,2 @@
 # wecare
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The World Health Organization revealed that five people in the world die every minute due to medical errors in treatment,  which is more than the victims of wars, therefore, this project aims to apply a smart healthcare system for better diagnosis. Egypt is a promising stage for digital transformation in light of Egypt Vision 2030 for SDGs which will help us implement this system as soon as possible. In this work, an electronic medical record (EMR) is being implemented and accessed by every citizen as well as hospitals, pharmacies, and laboratories, so that everyone has his medical history stored over the internet and this will help to diagnose better and save time and money. In dangerous situations and accidents, hospitals can easily know the blood type and necessary information by the national ID. It also helps governments in COVID-19 tracking and vaccination. The proposed system will be implemented on Flutter and hosted on Cloud Firestore. The collected database could be used in drug production as well as experiments in the scientific society using some ML models. After implementation, some features will be added based on the patient's medical history like early detection of chronic diseases by deep learning models. 
